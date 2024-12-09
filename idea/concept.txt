@@ -1,0 +1,21 @@
+
+NAVBAR :
+
+-> add a langage button
+
+HOME SECTION :
+
+    - boxes informing of new members
+
+PROJECT SECTION :
+
+    - boxes with pictures description, github link, clone copy or downlaod button, date
+
+MEMBERS SECTION :
+
+    - board of Iboren members, each one are composed of : profile picture, username, projects number, 
+      button showing a list of all projects name
+
+CONTACT SECTION :
+
+    - boxe to send a request with github account, experience, projects done

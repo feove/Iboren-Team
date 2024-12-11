@@ -55,7 +55,7 @@ nav.mob ul li {
 
 nav.desk ul li:hover,
 nav.mob ul li:hover {
-    background: #34495e;
+    background: #6a86a2;
     transition: background 0.3s ease;
 }
 
